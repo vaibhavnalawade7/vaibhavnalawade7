@@ -34,7 +34,6 @@
 
 <p align="center"> 
     <a href="https://www.javascripttutorial.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/></a>
-    <a href="https://reactjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/></a>
     <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="60" height="60"/></a>
     <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjimZy_tM_2AhVdTmwGHToZD2IQFnoECAwQAQ&url=https%3A%2F%2Fjquery.com%2F&usg=AOvVaw1yb1TgbSxtZNKnsTynd_HN" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="60" height="60"/></a>
     <a href="https://getbootstrap.com/docs/5.1/getting-started/introduction/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="60" height="60"/></a>
