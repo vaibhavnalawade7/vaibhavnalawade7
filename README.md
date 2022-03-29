@@ -8,7 +8,7 @@
 ## Connect with me
 
 <p align="center">
-    <a href="https://www.codechef.com/users/vaibhavnalawade7" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vaibhavnalawade7" height="40" width="40" /></a>
+    <a href="https://www.codechef.com/users/vaibhavn7" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vaibhavn7" height="40" width="40" /></a>
     <a href="https://instagram.com/vaibhavnalawade7" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaibhavnalawade71" height="40" width="40" /></a>
     <a href="https://www.linkedin.com/in/sumit-kawale-a3b51421b/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="sumit-kawale-a3b51421b" height="40" width="40" /></a>
 </p>
