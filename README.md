@@ -27,6 +27,13 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/></a>
 </p>
 
+### Game Developement
+
+<p align="center"> 
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="C#" width="60" height="60"/></a>
+    <a href="https://learn.unity.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="unity" width="60" height="60"/></a>
+</p>
+
 
 ### Web Developement
 
