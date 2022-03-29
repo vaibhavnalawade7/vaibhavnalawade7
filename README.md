@@ -10,7 +10,7 @@
 <p align="center">
     <a href="https://www.codechef.com/users/vaibhavn7" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vaibhavn7" height="40" width="40" /></a>
     <a href="https://instagram.com/vaibhavnalawade7" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaibhavnalawade71" height="40" width="40" /></a>
-    <a href="https://www.linkedin.com/in/sumit-kawale-a3b51421b/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="sumit-kawale-a3b51421b" height="40" width="40" /></a>
+    <a href="https://www.linkedin.com/in/vaibhav-nalawade-094690170" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="vaibhav-nalawade-094690170" height="40" width="40" /></a>
 </p>
 <br>
  
@@ -19,10 +19,10 @@
 ### Programming Language
 
 <p align="center"> 
+    <a href="https://docs.oracle.com/en/java/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/></a>
     <a href="https://www.javascripttutorial.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/></a>
     <a href="https://www.cprogramming.com/tutorial/c-tutorial.html?inl=nv" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c language" width="60" height="60"/></a>
     <a href="https://www.cprogramming.com/tutorial/c++-tutorial.html?inl=nv" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++ language" width="60" height="60"/></a>
-    <a href="https://docs.oracle.com/en/java/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/></a>
     <a href="https://developer.android.com/about/versions/11" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="60" height="60"/></a>
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/></a>
 </p>
@@ -61,7 +61,7 @@
 </p>
 
 
-### Other
+### Version Control Aand Collaboration
 
 <p align="center">
     <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="60" height="60"/></a>
