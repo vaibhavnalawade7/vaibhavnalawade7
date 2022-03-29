@@ -5,12 +5,13 @@
 <hr />
 
 
-## Connect with me
+## Connect With Me
 
 <p align="center">
     <a href="https://www.codechef.com/users/vaibhavn7" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vaibhavn7" height="40" width="40" /></a>
     <a href="https://instagram.com/vaibhavnalawade7" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaibhavnalawade71" height="40" width="40" /></a>
     <a href="https://www.linkedin.com/in/vaibhav-nalawade-094690170" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="vaibhav-nalawade-094690170" height="40" width="40" /></a>
+    <a href="https://www.linkedin.com/in/vaibhav-nalawade-094690170" target="_blank"> <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="vaibhav-nalawade-094690170" height="40" width="40" /></a>
 </p>
 <br>
  
@@ -37,7 +38,7 @@
 
 ### Web Developement
 
-> **_frontend_**
+> **_Frontend_**
 
 <p align="center"> 
     <a href="https://www.javascripttutorial.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/></a>
@@ -49,7 +50,7 @@
     <a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="60" height="60"/></a>
 </p>
 
-> **_backend_**
+> **_Backend_**
 
 <p align="center"> 
     <a href="https://nodejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="60" height="60"/></a>
