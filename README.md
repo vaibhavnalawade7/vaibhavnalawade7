@@ -11,7 +11,7 @@
     <a href="https://www.codechef.com/users/vaibhavn7" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vaibhavn7" height="40" width="40" /></a>
     <a href="https://instagram.com/vaibhavnalawade7" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaibhavnalawade71" height="40" width="40" /></a>
     <a href="https://www.linkedin.com/in/vaibhav-nalawade-094690170" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="vaibhav-nalawade-094690170" height="40" width="40" /></a>
-    <a href="https://www.linkedin.com/in/vaibhav-nalawade-094690170" target="_blank"> <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="vaibhav-nalawade-094690170" height="40" width="40" /></a>
+    <a href="https://twitter.com/vaibhavnalawde7" target="_blank"> <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="vaibhavnalawde7" height="40" width="40" /></a>
 </p>
 <br>
  
