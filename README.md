@@ -41,7 +41,6 @@
 > **_Frontend_**
 
 <p align="center">
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="SpringBoot" width="60" height="60"/></a>
     <a href="https://www.javascripttutorial.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/></a>
     <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="60" height="60"/></a>
     <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjimZy_tM_2AhVdTmwGHToZD2IQFnoECAwQAQ&url=https%3A%2F%2Fjquery.com%2F&usg=AOvVaw1yb1TgbSxtZNKnsTynd_HN" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="60" height="60"/></a>
@@ -54,6 +53,7 @@
 > **_Backend_**
 
 <p align="center"> 
+    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="SpringBoot" width="60" height="60"/></a>
     <a href="https://nodejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="60" height="60"/></a>
     <a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/></a>
     
