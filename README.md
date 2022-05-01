@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavnalawade7&label=Profile%20views&color=640fd4&style=flat" alt="vaibhavnalawade7" /></p>
 
-<hr />
+<hr /> 
 
 
 ## Connect With Me
