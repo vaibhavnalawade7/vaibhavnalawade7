@@ -28,7 +28,7 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/></a>
 </p>
 
-### Game Developement
+### Game Development
 
 <p align="center"> 
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="C#" width="60" height="60"/></a>
@@ -36,7 +36,7 @@
 </p>
 
 
-### Web Developement
+### Web Development
 
 > **_Frontend_**
 
@@ -54,7 +54,7 @@
 
 <p align="center"> 
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="SpringBoot" width="60" height="60"/></a>
-    <a href="https://nodejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="60" height="60"/></a>
+    <a href="[https://nodejs.org/](https://flask.palletsprojects.com/en/2.3.x/)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="nodejs" width="60" height="60"/></a>
     <a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/></a>
     
 </p>
@@ -69,7 +69,7 @@
 </p>
 
 
-### Version Control Aand Collaboration
+### Version Control and Collaboration
 
 <p align="center">
     <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="60" height="60"/></a>
