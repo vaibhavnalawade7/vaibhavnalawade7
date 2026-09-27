@@ -6,69 +6,85 @@
 
 ### Founder of Brimwing Softverse Private Limited | Software Developer | AI & Machine Learning Enthusiast
 
-I am **Vaibhav Nalawade**, Founder of **Brimwing Softverse Private Limited**, a software and technology company focused on building software products, AI-powered applications, SaaS platforms, web applications, and mobile applications.
-
-I work across **Artificial Intelligence, Machine Learning, Software Development, Web Development, Android Development, and SaaS product development**.
+I am **Vaibhav Nalawade**, Founder of **Brimwing Softverse Private Limited**, a technology entrepreneur and software developer working on software products, AI-powered applications, SaaS platforms, web applications and mobile applications.
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/vaibhavnalawade7/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45"/>
 </a>
 
 <a href="https://github.com/vaibhavnalawade7" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
 </a>
 
 <a href="https://instagram.com/vaibhavnalawade7" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="45" height="45"/>
 </a>
 
 <a href="https://twitter.com/vaibhavnalawde7" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="45" height="45"/>
 </a>
 
 <a href="https://www.codechef.com/users/vaibhavn7" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" width="45" height="45"/>
 </a>
 
 <a href="https://www.brimwing.com/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="Brimwing Softverse Private Limited" width="45" height="45"/>
+<img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="Brimwing Softverse" width="45" height="45"/>
 </a>
 
 <a href="https://play.google.com/store/apps/dev?id=5083198186842609036" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/888/888857.png" alt="Google Play Apps" width="45" height="45"/>
+<img src="https://cdn-icons-png.flaticon.com/512/888/888857.png" alt="Google Play" width="45" height="45"/>
 </a>
 
 </p>
 
 ---
 
-## 🏢 Brimwing Softverse Private Limited
+## About Brimwing Softverse Private Limited
 
-**Brimwing Softverse Private Limited** is a technology company founded by **Vaibhav Nalawade**, working on software products, AI solutions, SaaS platforms, web applications and mobile applications.
-
-### Areas of Development
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 💻 Software Development
-- 🌐 Web Applications
-- 📱 Android Applications
-- ☁️ SaaS Products
-- 🗄️ Database Systems
-- ⚙️ Automation
-- 📊 Business Software
+**Brimwing Softverse Private Limited** is a technology company founded by **Vaibhav Nalawade**, focused on building software products, artificial intelligence solutions, SaaS platforms, web applications and mobile applications.
 
 ---
 
-## 🛠️ Languages & Technologies
+## Areas of Interest
 
-### Programming Languages
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+width="55" height="55" alt="Artificial Intelligence and Machine Learning"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"
+width="55" height="55" alt="Artificial Intelligence"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg"
+width="55" height="55" alt="Computer Vision"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+width="55" height="55" alt="Web Development"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"
+width="55" height="55" alt="Android Development"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+width="55" height="55" alt="Backend Development"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"
+width="55" height="55" alt="Spring Boot"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+width="55" height="55" alt="Database Development"/>
+
+</p>
+
+---
+
+## Programming Languages
 
 <p align="center">
 
@@ -86,7 +102,9 @@ I work across **Artificial Intelligence, Machine Learning, Software Development,
 
 </p>
 
-### Web Development
+---
+
+## Web & Software Development
 
 <p align="center">
 
@@ -96,27 +114,17 @@ I work across **Artificial Intelligence, Machine Learning, Software Development,
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="60" height="60" alt="Bootstrap"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60" alt="React"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="60" height="60" alt="Spring Boot"/>
 
 </p>
 
-### AI & Machine Learning
+---
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" alt="Python"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="60" height="60" alt="TensorFlow"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="60" height="60" alt="OpenCV"/>
-
-</p>
-
-### Databases
+## Databases
 
 <p align="center">
 
@@ -130,7 +138,7 @@ I work across **Artificial Intelligence, Machine Learning, Software Development,
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub
 
 <p align="center">
 
@@ -146,12 +154,13 @@ I work across **Artificial Intelligence, Machine Learning, Software Development,
 
 ---
 
-## 📱 Applications
+## Applications
 
 <p align="center">
 
-<a href="https://play.google.com/store/apps/dev?id=5083198186842609036">
-  <img src="https://cdn-icons-png.flaticon.com/512/888/888857.png" width="55" height="55" alt="Google Play"/>
+<a href="https://play.google.com/store/apps/dev?id=5083198186842609036" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/888/888857.png"
+width="55" height="55" alt="Vaibhav Nalawade Google Play Applications"/>
 </a>
 
 </p>
